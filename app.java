@@ -4,6 +4,6 @@ public class VowelConsonant {
         if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' )
             System.out.println(ch + " is vowel");
         else
-            System.out.println(ch + " is avinash");
+            System.out.println(ch + " is sravan");
     }
 }
